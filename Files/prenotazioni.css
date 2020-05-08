@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin: 8px;
+    font-size: 14;
+}
+
+#corpo {
+    float: left;
+    position: relative;
+    left: 100px;
+}
+
+#legend {
+    float: left;
+    clear: right;
+    position: relative;
+    left: 100px;
+}
